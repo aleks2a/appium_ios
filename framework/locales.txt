@@ -1,0 +1,36 @@
+|locale            |POS           |
+|en en_US          |United States |
+|en en_HK          |Hong Kong     |
+|en en_CA          |Canada        |
+|en en_IE          |Ireland       |
+|en en_AU          |Australia     |
+|de de_AT          |Austria       |
+|de de_DE          |Germany       |
+|da da_DK          |Denmark       |
+|en en_IN          |India         |
+|en en_NZ          |New Zealand   |
+|en en_PH          |Philippines   |
+|en en_SG          |Singapore     |
+|en en_UK          |United Kingdom|
+|es es_AR          |Argentina     |
+|es es_ES          |Spain         |
+|fr fr_CA          |Canada        |
+|es es_MX          |Mexico        |
+|fr fr_FR          |France        |
+|fr fr_BE          |Belgium       |
+|nl nl_BE          |Belgium       |
+|nl nl_NL          |Netherlands   |
+|it it_IT          |Italy         |
+|pt pt_PT          |Portugal      |
+|pt pt_BR          |Brazil        |
+|nb nb_NO          |Norway        |
+|sv sv_SE          |Sweden        |
+|ms ms_MY          |Malaysia      |
+|id id_ID          |Indonesia     |
+|th th_TH          |Thailand      |
+|ko ko_KR          |Korea         |
+|vi vi_VN          |Vietnam       |
+|zh-Hans zh-Hans_HK|Hong Kong     |
+|zh-Hant zh-Hant_TW|Taiwan        |
+|zh-Hant zh-Hant_HK|Hong Kong     |
+|ja ja_JP          |Japan         |
