@@ -1,3 +1,5 @@
-cd to framework/
+1. copy application to appium_ios folder
 
-type 'cucumber' in terminal to start tests
+2. cd to appium_ios/framework/
+
+3. type 'cucumber' in terminal to start tests
