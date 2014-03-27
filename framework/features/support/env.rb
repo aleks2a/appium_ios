@@ -5,7 +5,7 @@ require "debugger"
 
 
 def create_driver locale="en en_US"
-  app_path = File.join(File.dirname(__FILE__), "..", "..", "Debug-iphonesimulator", "NearbyMe.app")
+  app_path = File.join(File.dirname(__FILE__), "..", "..", "..", "NearbyMe.app")
   server_url = "http://127.0.0.1:4723/wd/hub"
   capabilities =
       { 'device' => (ENV['DEVICE'] || 'iPhone Simulator'),
